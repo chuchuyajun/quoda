@@ -1,0 +1,23 @@
+font-face {
+  font-family: 'Roboto Slab';
+  src: url('../fonts/RobotoSlab-Regular.ttf') format('robotoslab');
+
+}
+
+h1 {
+  font-family: 'Roboto Slab';
+}
+
+h3 {
+  font-family: 'Roboto Slab';
+  color: grey;
+}
+
+.title {
+  text-align: center;
+}
+
+p { 
+  font-family: 'Roboto Slab';
+
+}
